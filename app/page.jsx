@@ -14,7 +14,7 @@ const Home = () => {
       </p>
 
       {/* Feed Component here */}
-      {/* <Feed /> */}
+      <Feed />
     </section>
   )
 }
